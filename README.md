@@ -1,4 +1,4 @@
-# webdriverio-experiment
+# webdriverio-standalone-experiment
 
 This repository is for experiments of [WebdriverIO](http://webdriver.io/) in standalone mode.
 
