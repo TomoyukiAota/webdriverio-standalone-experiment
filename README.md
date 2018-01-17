@@ -34,7 +34,8 @@ npm start
 ```
 
 After typing `npm run selenium-start` and `npm start`, web browser launches and actions described in `./src/main.js` run.
-[![Screen Capture](https://j.gifs.com/0VOWGy.gif)](https://youtu.be/JJnRd4AC_zI)
+
+[![Screen Capture](https://j.gifs.com/gL6RpD.gif)](https://youtu.be/JJnRd4AC_zI)
 
 ## Useful References
 
