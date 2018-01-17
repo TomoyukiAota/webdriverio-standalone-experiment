@@ -33,6 +33,9 @@ In the other window, type
 npm start
 ```
 
+After typing `npm run selenium-start` and `npm start`, web browser launches and actions described in `./src/main.js` run.
+[![Screen Capture](https://j.gifs.com/0VOWGy.gif)](https://youtu.be/JJnRd4AC_zI)
+
 ## Useful References
 
 - [WebdriverIO - How to use WebdriverIO](http://webdriver.io/guide/getstarted/modes.html)
