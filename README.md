@@ -7,7 +7,8 @@ This repository is for experiments of [WebdriverIO](http://webdriver.io/) in sta
 The following applications are required to be installed on your computer.
 
 - [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org/en/) (v8.9.0 LTS or greater)
+- [Node.js](https://nodejs.org/en/)
+- [Java Runtime Environment](https://java.com/en/)
 - [Google Chrome](https://www.google.com/intl/en/chrome/)
 
 To setup the environment, type the following commands:
